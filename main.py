@@ -76,7 +76,7 @@ async def check_warframe():
         except Exception as e:
             print("Error:", e)
 
-        await asyncio.sleep(60)
+        await asyncio.sleep(180)
 
 # ---------- SLASH COMMAND ----------
 
